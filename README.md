@@ -57,3 +57,7 @@ truffle migrate --network development
 truffle console --network development
 ```
 
+
+## Contact
+Ask any question about our competition via the following email.<br>
+joshuachoi@anetchain.com
