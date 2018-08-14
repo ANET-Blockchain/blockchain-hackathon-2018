@@ -58,6 +58,7 @@ truffle console --network development
 ```
 
 
-## Contact
+## Support
 Ask any question about our competition via the following email.<br>
+I will do my best to help you out.<br>
 joshuachoi@anetchain.com
