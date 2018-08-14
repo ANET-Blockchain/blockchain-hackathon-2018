@@ -1,6 +1,16 @@
 # Asia Blockchain Hackathon 2018
 
-Description..... Blah blah blah
+[Technical competition]<br>
+Hello Developers!<br>
+We are gladly hosting Blockchain & A.I. technical competition. You can select one of the following topics and join the competition! (1) Blockchain Dapp competition (2)  Blockchain based credit information application (3) Improving Accuracy of prediction model<br>
+
+Participant who wants to join our technical competition should prepare presentation document & executive summary about what your team prepared.
+
+
+• The criteria for award: practicality and novelty<br>
+• Please refer to our github for getting started with dapp development
+
+Thank you!
 
 
 # Preparation for Dapp Development
