@@ -4,12 +4,11 @@ Description..... Blah blah blah
 
 
 # Preparation for Dapp Development
-- Ganache
-Type the following command to install<br>
+- Ganache<br>
+1) Type the following command to install<br>
 <code>npm install -g ganache-cli</code><br>
-Run Ganache-cli<br>
+2) Run Ganache-cli<br>
 <code>ganache-cli -p 7545</code><br>
-
 
 - Truffle<br>
 1) <code>npm install -g truffle</code><br>
